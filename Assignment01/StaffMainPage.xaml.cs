@@ -15,16 +15,31 @@ using System.Windows.Shapes;
 namespace WPFNewsManagementSystem
 {
     /// <summary>
-    /// Interaction logic for Login.xaml
+    /// Interaction logic for StaffMainPage.xaml
     /// </summary>
-    public partial class Login : Window
+    public partial class StaffMainPage : Window
     {
-        public Login()
+        public StaffMainPage()
         {
             InitializeComponent();
         }
 
-        private void btnLogin_Click(object sender, RoutedEventArgs e)
+        private void btnMCI_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void btnMNA_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void btnMTP_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void btnVNHC_Click(object sender, RoutedEventArgs e)
         {
 
         }

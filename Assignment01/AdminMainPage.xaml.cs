@@ -15,16 +15,21 @@ using System.Windows.Shapes;
 namespace WPFNewsManagementSystem
 {
     /// <summary>
-    /// Interaction logic for Login.xaml
+    /// Interaction logic for AdminMainPage.xaml
     /// </summary>
-    public partial class Login : Window
+    public partial class AdminMainPage : Window
     {
-        public Login()
+        public AdminMainPage()
         {
             InitializeComponent();
         }
 
-        private void btnLogin_Click(object sender, RoutedEventArgs e)
+        private void btnMAI_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void btnCRS_Click(object sender, RoutedEventArgs e)
         {
 
         }
